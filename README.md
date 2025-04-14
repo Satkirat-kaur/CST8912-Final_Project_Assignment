@@ -7,6 +7,7 @@ The data collected is streamed to **Azure IoT Hub**, where it is securely receiv
 This smart solution provides a scalable and reliable architecture to support safe recreational activities and data-driven decision-making for city officials.
 
 ## System Architecture
+![System Architecture Diagram]()
 
 This system is built to simulate and process real-time environmental data from the Rideau Canal Skateway. It monitors key factors like ice thickness and weather conditions to help determine safe or unsafe skating conditions. The architecture is composed of four main components:
 
