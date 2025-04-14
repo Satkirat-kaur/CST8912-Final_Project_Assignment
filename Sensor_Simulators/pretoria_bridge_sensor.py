@@ -15,7 +15,7 @@ def generate_pretoria_bridge_data():
     }
 
 # Replace with your Pretoria Bridge device connection string
-CONNECTION_STRING = "HostName=CanalIoTHub.azure-devices.net;DeviceId=pretoria-bridge;SharedAccessKey=WPme+jrhX8k/RlOD1n84bfOMiL8Ko+50dqpGPdDW/qs="
+CONNECTION_STRING = "HostName=CanalIoTHub.azure-devices.net;DeviceId=pretoria-bridge;SharedAccessKey=Ww+u+YfheQLEGhzzkd1bB3tPRcpo6HDdJpKkxodPDeM="
 device_client = IoTHubDeviceClient.create_from_connection_string(CONNECTION_STRING)
 
 try:

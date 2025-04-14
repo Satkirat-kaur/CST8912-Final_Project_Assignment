@@ -15,7 +15,7 @@ def generate_fifth_avenue_data():
     }
 
 # Replace with your Fifth Avenue device connection string
-CONNECTION_STRING = "HostName=CanalIoTHub.azure-devices.net;DeviceId=fifth-avenue;SharedAccessKey=QukrQTwwhBNOFFRWRSXxbs41EWgoVVtk9tGo84XOxP8="
+CONNECTION_STRING = "HostName=CanalIoTHub.azure-devices.net;DeviceId=fifth-avenue;SharedAccessKey=Biq6+wUjAmrwyJ4yFIHz6RbaH6I7wENawj+4TxAO/Bo="
 device_client = IoTHubDeviceClient.create_from_connection_string(CONNECTION_STRING)
 
 try:

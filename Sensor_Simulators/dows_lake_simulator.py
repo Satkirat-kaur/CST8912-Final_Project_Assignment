@@ -16,7 +16,7 @@ def generate_dows_lake_data():
     }
 
 # Replace with your actual device connection string 
-CONNECTION_STRING = "HostName=CanalIoTHub.azure-devices.net;DeviceId=dows-lake;SharedAccessKey=IVba9UlsuEO8SchbAE3jZdrn/MgCrudI8Ri7Od/Qu7I="
+CONNECTION_STRING = "HostName=CanalIoTHub.azure-devices.net;DeviceId=dows-lake;SharedAccessKey=CZRXUUEcPB6+/ZnmCypSZjl4wvx7X2AHV4+Cv9BIr6Q="
 device_client = IoTHubDeviceClient.create_from_connection_string(CONNECTION_STRING)
 
 try:
