@@ -1,3 +1,5 @@
+# Real-time Monitoring System for Rideau Canal Skateway
+
 ## 1. Scenario Description
 
 The Rideau Canal Skateway in Ottawa is one of the most iconic outdoor attractions during winter. To ensure public safety and enhance operational decision-making, a real-time monitoring system is proposed. This system uses simulated IoT sensors installed at key locations—such as **Dow’s Lake**, **Fifth Avenue**, and **Pretoria Bridge** —to collect critical data about ice conditions and weather factors like temperature, humidity, and wind speed.
